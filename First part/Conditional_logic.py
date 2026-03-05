@@ -1,5 +1,5 @@
 f = 2==4
-b= "Bangladesh "  == "Bangladesh"
+b= "Bangladesh "  == "Banglades"
 c= 2>3
 d= 2!=3
 e= 3!=3
