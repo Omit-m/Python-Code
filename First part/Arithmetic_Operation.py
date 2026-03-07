@@ -1,5 +1,8 @@
-a = 10 
-b = 5
+# a = 10 
+# b = 5
+
+a= int(input( " Enter a number : "))
+b= int( input( "Enter a number : "))
 
 c = a + b
 print ( c )
@@ -13,9 +16,13 @@ print( e )
 f = a // b 
 print ( f )
 
+r= a%b
+print( r )
+
 """
 for addition ( + )
 for divide ( // )
 for subtraction ( - )
 for multiplication ( * )
+for remain after devide ( % )
 """
