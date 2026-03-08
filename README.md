@@ -9,6 +9,10 @@ I was first introduced to Python in 2023 during my diploma program. However, for
 
 This repository contains my practice, experiments, and small projects as I revisit Python from the fundamentals and gradually move toward more advanced concepts.
 
+## credit 
+
+All credit goes to Tamim Shahriar Subeen Sir. I learned and implemented the programs in this repository by following his books. For more information about those books, please email (book@subeen.com)
+
 ## 🎯 Goals
 
 * Refresh my Python fundamentals
