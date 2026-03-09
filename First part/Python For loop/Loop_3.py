@@ -1,6 +1,5 @@
 # Find highest value from list 
 import random
-
 ls=[]
 maX_num=0
 for i in range (5):
