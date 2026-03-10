@@ -1,2 +1,2 @@
-li= list(range(11))
+li=list(range(11))
 print(li)
