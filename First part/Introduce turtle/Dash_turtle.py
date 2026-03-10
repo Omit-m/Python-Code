@@ -1,7 +1,6 @@
 import turtle
-
-turtle.speed(1)      
-
+turtle.speed(1)
+      
 for i in range(10):
     turtle.forward(10)
     turtle.penup()
