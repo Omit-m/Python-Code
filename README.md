@@ -1,5 +1,5 @@
 ""
-# Python Relearning Journey 🐍
+# Python learning Journey 🐍
 
 Hello, this is Omit, and welcome to my repository.
 
