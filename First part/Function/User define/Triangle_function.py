@@ -1,10 +1,12 @@
 import turtle
 
-def triangle(leangth):
+length = int(input(" Enter the length :  "))
+
+def triangle(length):
     for i in range (3):
-        turtle.forward(100)
+        turtle.forward(length)
         turtle.left(120)
 
 
-triangle(300)
+triangle(length)
 turtle.exitonclick()        
