@@ -9,11 +9,25 @@ function_name(arguments)
 
 """
 
-def add( n1, n2):
-    return n1 +n2
+def function_name( parameters_1, parameters_2):
+    return parameters_1, parameters_2
 
-n=10
-m=5
+parameters_1 = 5
+parameters_2 = 10
 
-result= add(n,m)
-print(result)
+Variable = function_name( parameters_1, parameters_2)
+print(Variable)
+
+
+# ....................................................
+
+
+
+def function_name( parameters_1, parameters_2):
+   print(parameters_1 + parameters_2)
+
+
+parameters_1 = 5
+parameters_2 = 10
+
+Variable = function_name( parameters_1, parameters_2)   
