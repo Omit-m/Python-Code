@@ -6,7 +6,7 @@ def total ():
     for i in range(n):
         number = int(input("Enter a number : "))
         sum += number
-    print(sum)
+    print("Total = ",sum)
 
 total()
 
