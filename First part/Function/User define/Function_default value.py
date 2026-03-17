@@ -7,7 +7,7 @@ x=20
 y=6
 z=7
 
-myfuc(x,z,y) 
+myfuc(x,z,y) # Count values for parameters by index
 print("omit")
 myfuc(x,y)
 print("omit1")
