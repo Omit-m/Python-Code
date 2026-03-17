@@ -2,13 +2,14 @@ def myfuc(x,y=10,z=0):
     print("x =" ,x,"Y =" ,y,"z =" ,z)
 
 myfuc(10)
-# x=20
-# y=6
-# z=7
+print(" default values")
+x=20
+y=6
+z=7
 
-# myfuc(x,y,z) 
-# print("omit")
-# myfuc(x,y)
-# print("omit1")
-# myfuc(z)
+myfuc(x,z,y) 
+print("omit")
+myfuc(x,y)
+print("omit1")
+myfuc(z)
  
