@@ -9,11 +9,19 @@ def my_fnc(numbers):
     for number in numbers:
         result +=number
 
-    global avg
+    # global avg
     avg= result / total_number
     return avg
     
 
+"""
+This method only worked when the local variable turned into a global variable.
+"""
+# my_fnc([10,20,30,40,50,60,70,80,90,100])    
+# print("Avg = ",avg)    
 
-my_fnc([10,20,30,40,50,60,70,80,90,100])    
+
+#  Better Practice: Using return
+
+avg = my_fnc([10,20,30,40,50,60,70,80,90,100])    
 print("Avg = ",avg)    
