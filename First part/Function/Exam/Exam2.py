@@ -1,9 +1,7 @@
 """
-
 Write a  function for multiplication table :
 👉 If the user presses Enter, the default value becomes 1.
 👉 Otherwise, it prints the multiplication table of the entered number.
-
 """
 
 def mul(n=1):
