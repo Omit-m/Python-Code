@@ -1,3 +1,10 @@
 s1= "BANGLADESH"
-s2=s1.lower()
-print(s2)
+Lower =s1.lower()
+print(Lower)
+
+
+
+
+s2= "bangladesh"
+Upper =s2.upper()
+print(Upper)
