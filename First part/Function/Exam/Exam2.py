@@ -1,6 +1,6 @@
 """
 Write a  function for multiplication table :
-👉 If the user presses Enter, the default value becomes 1.
+👉 If the user presses Enter,the default value becomes 1.
 👉 Otherwise, it prints the multiplication table of the entered number.
 """
 
