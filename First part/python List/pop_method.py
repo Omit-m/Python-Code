@@ -4,3 +4,7 @@ print(Frutis)
 
 Item= Frutis.pop()
 
+print(Item)
+
+print(Frutis)
+
