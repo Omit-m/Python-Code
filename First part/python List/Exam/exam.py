@@ -1,5 +1,5 @@
-
 """
+Write a Python program that takes a word as input from the user and checks whether it is a palindrome or not
 """
 def palindrome_fun(word):
 
