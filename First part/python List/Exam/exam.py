@@ -1,4 +1,6 @@
 
+"""
+"""
 def palindrome_fun(word):
 
     if word == word[::-1]:
@@ -7,4 +9,4 @@ def palindrome_fun(word):
         print("It is not a palindrome")
 
 
-palindrome_fun(input("input a word : "))
+palindrome_fun(input("Input a word : "))
