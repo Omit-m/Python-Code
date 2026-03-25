@@ -4,3 +4,7 @@ ls2 = [7,8,9,10,12,13]
 ls.extend(ls2)
 
 print(ls)
+
+
+
+
