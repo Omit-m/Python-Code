@@ -2,25 +2,25 @@
 
 
 # without list comprehension
-li = [1,2,3,4,5,6,7,8,9,10]
-new_li = []
+# li = [1,2,3,4,5,6,7,8,9,10]
+# new_li = []
 
-for x in li:
-    new_li.append(x*2)
+# for x in li:
+#     new_li.append(x*2)
   
-new_li2 = li + new_li
+# new_li2 = li + new_li
 
-even = []
-for x in new_li2:
-    if x%2 == 0:
-        even.append(x)
-print(even)
+# even = []
+# for x in new_li2:
+#     if x%2 == 0:
+#         even.append(x)
+# print(even)
 
 
 # with list comprehension
 
-li = [1,2,3,4,5,6,7,8,9,10]
-new_li2 = [x*2 for x in li] + li
+li = [11,23,33,44,55,66,77,88,99,100]
+new_li2 = li + [i*2 for i in li] 
 
 even = [x for x in new_li2 if x%2 == 0]
 
