@@ -6,3 +6,7 @@ print(str)
 
 st1 = ",".join(li)
 print(st1)
+
+st2 = "-".join(li)
+print(st2)
+
