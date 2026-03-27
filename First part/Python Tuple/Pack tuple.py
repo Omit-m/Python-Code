@@ -20,4 +20,4 @@ for item in items:
 
 print(items[4].append("d")) 
 
-print(items[4])
+print(items[4][3])
