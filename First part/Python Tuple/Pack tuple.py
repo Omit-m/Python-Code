@@ -9,3 +9,12 @@ t = n3,n4
 print(t)
 
 print(type(t))
+
+
+# ................
+
+
+items = (1,2,3,5.5,["a","b","c"],("apple","banana"))
+
+for item in items:
+    print(item, type(item))
