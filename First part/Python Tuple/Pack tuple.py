@@ -11,10 +11,13 @@ print(t)
 print(type(t))
 
 
-# ................
+# ...............
 
-
-items = (1,2,3,5.5,["a","b","c"],("apple","banana"))
+items = (10,20,30,5.5,["a","b","c"],("apple","banana"))
 
 for item in items:
     print(item, type(item))
+
+print(items[4].append("d")) 
+
+print(items[4])
